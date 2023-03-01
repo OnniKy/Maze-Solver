@@ -17,7 +17,7 @@ For example, a maze might look like this:
 #^#    #E#
 # # #### #
 # #      #
-# ########
+##########
 
 Once you have entered the name of the maze file, the program will attempt to find a path through the maze. If there are multiple start and end points, the program will find the shortest path that covers all of them. The shortest path found is then output to the console, with the path marked by dots (.). If no path is found, the program will print a message indicating this.
 
