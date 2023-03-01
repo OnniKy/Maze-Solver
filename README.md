@@ -8,6 +8,7 @@ Menu
 ----
 1. Find path through maze
 2. Quit program
+
 Enter 1 to find a path through a maze, or 2 to quit the program.
 
 If you choose to find a path through a maze, you will be prompted to enter the name of the file containing the maze. The file should be a text file, with ^ representing the start point, E representing the end point, and # representing walls. 
